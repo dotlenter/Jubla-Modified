@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994993532646-ohascjlnmtra267de5082s0r4ao1gqds.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994993532646-ohascjlnmtra267de5082s0r4ao1gqds</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>994993532646-79su7ccb60i81rsgfnr8a33hli1qrclc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm_M08Ybc5GA8OIQQAIyyPqpgjRbtPeIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994993532646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.jubla.ph</string>
+	<key>PROJECT_ID</key>
+	<string>jubla-4bdcb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jubla-4bdcb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994993532646:ios:4ee0ed1c15b22c07031527</string>
+	<key>DATABASE_URL</key>
+	<string>https://jubla-4bdcb-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

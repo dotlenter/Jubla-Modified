@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994993532646",
+    "project_id": "jubla-4bdcb",
+    "storage_bucket": "jubla-4bdcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994993532646:android:db5704a029e418cd031527",
+        "android_client_info": {
+          "package_name": "com.bama.jubla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994993532646-79su7ccb60i81rsgfnr8a33hli1qrclc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bama.jubla",
+            "certificate_hash": "21f75e759f50ce810adde1067d065aacf95d680b"
+          }
+        },
+        {
+          "client_id": "994993532646-k6kptdki883go2idciee05mofs4ou4tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtZCTlnXslDLhSFMBjj-adkQ1xcvkvlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994993532646-k6kptdki883go2idciee05mofs4ou4tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
